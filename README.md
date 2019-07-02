@@ -1,2 +1,3 @@
 # course-project-c-
-Four projects that I  created during c# course in college
+3 Appilcation that I created during c# course in college:
+Using classes, inherited, polymorphism, interfaces, events, delegations.
